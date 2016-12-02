@@ -1,3 +1,32 @@
+.title img {
+  width: 150px; }
 
+.links li {
+  padding-top: 20px;
+  padding-right: 25px;
+  font-size: 16px; }
+
+.header-img {
+  background-image: url("../images/dunder.jpg");
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.content1 {
+  border-bottom: 1px solid black; }
+
+.content2 {
+  border-bottom: 1px solid black; }
+
+.content3 {
+  font-size: 16px;
+  padding-top: 10px;
+  text-align: center; }
+  .content3 h1 {
+    text-align: center; }
+
+.footer {
+  background-color: #626266;
+  height: 300px; }
 
 /*# sourceMappingURL=styles.css.map */
