@@ -19,6 +19,10 @@ $footerbg: #626266;
 	padding-top: 20px;
 	padding-right: 25px;
 	font-size: 16px;
+
+	a {
+		text-decoration: none
+	}
 }
 
 
@@ -28,6 +32,7 @@ $footerbg: #626266;
 	height: 500px;
 	background-size: cover;
 	background-repeat: no-repeat;
+	border: 1px solid black;
 }
 
 
